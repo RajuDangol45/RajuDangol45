@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello Human 👋
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RajuDangol45.RajuDangol45)](https://github.com/RajuDangol45) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8362191)](https://stackoverflow.com/users/8362191/raju-dangol)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=RajuDangol45&theme=onedark)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=RajuDangol45&show_icons=true&theme=radical" alt="Raju Dangol github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajuDangol45&layout=compact" />
+</div>
+
+
+[Linkedin](https://www.linkedin.com/in/raju-dangol-121435141/)
 
 <!--
 **RajuDangol45/RajuDangol45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
