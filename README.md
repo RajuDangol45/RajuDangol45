@@ -1,5 +1,5 @@
 ### Hello Human 👋
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=RajuDangol45.RajuDangol45)](https://github.com/RajuDangol45) [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8362191)](https://stackoverflow.com/users/8362191/raju-dangol)
+[![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=8362191)](https://stackoverflow.com/users/8362191/raju-dangol)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=RajuDangol45&theme=onedark)
 <div>
